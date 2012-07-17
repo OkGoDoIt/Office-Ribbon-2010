@@ -1,0 +1,94 @@
+﻿.button
+{
+	padding: 4px 6px;
+	text-align: center;
+	border: 1px solid #c7c8c9;
+	background: #F3F4F7;
+	
+	background-color: #f0f2f3;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ffffff), to(#f0f2f3));
+	background: -moz-linear-gradient(#ffffff, #f0f2f3);
+	-pie-background: linear-gradient(#ffffff, #f0f2f3);
+
+	-webkit-box-shadow: #c6c9cd 0px 1px 3px;
+	-moz-box-shadow: #c6c9cd 0px 1px 3px;
+	box-shadow: #c6c9cd 0px 1px 3px;
+	
+	-webkit-border-radius: 3px 3px 3px 3px;
+	-moz-border-radius: 3px 3px 3px 3px;
+	border-radius: 3px 3px 3px 3px;
+}
+
+a.button, a.button:visited
+{
+	color:#000;
+	text-decoration: none;
+}
+
+.button:hover
+{
+	border: 1px solid #F1C43F;
+
+	background: #fee486;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fef9c9), to(#fee486));
+	background: -moz-linear-gradient(#fef9c9, #fee486);
+	-pie-background: linear-gradient(#fef9c9, #fee486);	
+	
+	cursor: pointer;
+}
+.button:active
+{
+	border: 1px solid #c28a30;
+
+	background: #ffd86b;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fee486), to(#ffd86b));
+	background: -moz-linear-gradient(#fee486, #ffd86b);
+	-pie-background: linear-gradient(#fee486, #ffd86b);	
+
+
+	cursor: pointer;
+}
+
+.new-button
+{
+	padding: 2px 6px;
+	float: right;
+	width: 100px;
+	margin-top: -5px;
+}
+
+.button.big
+{
+	width: 150px;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position: relative;
+}
+
+.button.big img
+{
+	position: absolute;
+	margin-right: 10px;
+}
+
+.button.big .label
+{
+	margin-left: 42px;
+	text-align: left;
+	font-weight: bold;
+	display: block;
+}
+.button.big .desc
+{
+	text-align: left;
+	font-size: 8pt;
+	margin-top: 5px;
+	margin-left: 42px;
+	display: block;
+}
+
+.clear
+{
+	clear: both;
+}
