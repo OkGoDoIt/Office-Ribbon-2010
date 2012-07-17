@@ -8,17 +8,18 @@ I have created an implementation of the Office 2010 Ribbon toolbar that can be u
 Some highlights
 ---------------
 
-Default (silver and blue) and alternate (silver and red) themes
-.less styling so you can make your own themes easily
-2010-style Backstage feature (optional)
-2 button sizes
-Buttons can have a disabled state
-Tabs, sections, and buttons can all have custom HTML (such as bold or entities) in their titles
-Optional hot and disabled icon states
-Full HTML in ScreenTip (tooltip) supported
-So far I’ve tested it in Chrome, Firefox, Safari, and IE 8+.
-Uses the jQuery framework.
+  - Default (silver and blue) and alternate (silver and red) themes
+  - .less styling so you can make your own themes easily
+  - 2010-style Backstage feature (optional)
+  - 2 button sizes
+  - Buttons can have a disabled state
+  - Tabs, sections, and buttons can all have custom HTML (such as bold or entities) in their titles
+  - Optional hot and disabled icon states
+  - Full HTML in ScreenTip (tooltip) supported
+  - So far I’ve tested it in Chrome, Firefox, Safari, and IE 8+.
+  - Uses the jQuery framework.
 
+  
 There’s still a lot of work left to be done, but I wanted to get it on here.
 
 
