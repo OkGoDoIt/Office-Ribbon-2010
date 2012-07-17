@@ -5,6 +5,8 @@ Originally posted at http://rogerpincombe.com/ribbon on June 8, 2011
 
 I have created an implementation of the Office 2010 Ribbon toolbar that can be used in any website. It is written in HTML, CSS, and JS. Try a demo at http://okgodoit.com/ribbon/ or watch the video at http://www.youtube.com/watch?v=5YOpn2W-fQ8.
 
+![example](http://rogerpincombe.com/wp-content/uploads/2011/06/light.png "example")
+
 Some highlights
 ---------------
 
