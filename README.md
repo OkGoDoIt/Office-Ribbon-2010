@@ -18,11 +18,17 @@ Some highlights
   - Tabs, sections, and buttons can all have custom HTML (such as bold or entities) in their titles
   - Optional hot and disabled icon states
   - Full HTML in ScreenTip (tooltip) supported
-  - So far I’ve tested it in Chrome, Firefox, Safari, and IE 8+.
+  - So far Iâ€™ve tested it in Chrome, Firefox, Safari, and IE 8+.
   - Uses the jQuery framework.
 
   
-There’s still a lot of work left to be done, but I wanted to get it on here.
+Thereâ€™s still a lot of work left to be done, but I wanted to get it on here.
 
 
 Please note that you legally should license the ribbon UX from Microsoft (for free) at http://msdn.microsoft.com/en-us/office/aa973809.
+
+
+Shameless plug for my new project
+---------------------------------
+
+Do you want to look up people's personal information?  Try my new service, AllThePeople.net.  [AllThePeople is the personal contact information database](http://www.allthepeople.net) that allows you to look up information for anyone, including [personal email addresses for celebrities like Felicia Day](http://www.allthepeople.net/felicia-day), [birthdays of interesting entrepreneurs](http://www.allthepeople.net/tony-amoyal), and [the phone number of pioneers like Steve Wozniak](http://www.allthepeople.net/woz-woz).
